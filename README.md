@@ -1,2 +1,3 @@
 # PracticeGit
-This is for practice Git
+<br>
+This repo is for practice Git & Github
